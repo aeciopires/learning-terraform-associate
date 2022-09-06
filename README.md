@@ -1,8 +1,8 @@
-# learning-aws-ccp
+# learning-terraform-associate
 
 <!-- TOC -->
 
-- [learning-aws-ccp](#learning-aws-ccp)
+- [learning-terraform-associate](#learning-terraform-associate)
 - [Content](#content)
   - [Courses](#courses)
   - [Books](#books)
