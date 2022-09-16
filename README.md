@@ -21,9 +21,16 @@ Learning content for the HashiCorp Certified Terraform Associate
 * https://learn.hashicorp.com/collections/terraform/aws-get-started
 * https://learn.hashicorp.com/collections/terraform/cloud-get-started
 * https://learn.hashicorp.com/collections/terraform/certification
+* https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification
 * https://s3cloudhub.medium.com/terraform-functions-tutorial-string-function-1625340a73e
 * https://s3cloudhub.medium.com/terraform-functions-tutorial-numeric-function-5672efd88ae4
 * https://www.datocms-assets.com/2885/1602500234-terraform-full-feature-pricing-tablev2-1.pdf
+* https://www.terraform.io/language/values
+* https://www.terraform.io/language/settings/backends/local
+* https://www.terraform.io/language/expressions/type-constraints
+* https://www.terraform.io/language/functions
+* https://www.terraform.io/language/expressions
+* https://www.terraform.io/language/state
 
 ## Courses
 
@@ -62,6 +69,7 @@ Learning content for the HashiCorp Certified Terraform Associate
 
 * https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a
 * https://learn.hashicorp.com/tutorials/terraform/associate-questions
+* https://learn.hashicorp.com/tutorials/terraform/associate-review
 * https://s3cloudhub.medium.com/terraform-interview-questions-and-answer-c942aecd0a0e
 * https://rafaelmedeiros94.medium.com/study-guide-terraform-associate-certification-a77e57867dd3
 * https://www.udemy.com/course/terraform-associate-practice-exam/
