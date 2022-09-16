@@ -17,6 +17,9 @@ Learning content for the HashiCorp Certified Terraform Associate
 # Content
 
 * https://www.hashicorp.com/certification/terraform-associate
+* https://learn.hashicorp.com/collections/terraform/certification-associate-tutorials
+* https://learn.hashicorp.com/collections/terraform/aws-get-started
+* https://learn.hashicorp.com/collections/terraform/cloud-get-started
 * https://learn.hashicorp.com/collections/terraform/certification
 * https://s3cloudhub.medium.com/terraform-functions-tutorial-string-function-1625340a73e
 * https://s3cloudhub.medium.com/terraform-functions-tutorial-numeric-function-5672efd88ae4
@@ -27,6 +30,7 @@ Learning content for the HashiCorp Certified Terraform Associate
 * https://www.udemy.com/course/terraform-beginner-to-advanced/
 * https://www.udemy.com/course/terraform-hands-on-labs/
 * https://www.udemy.com/course/hashicorp-certified-terraform-associate-step-by-step/
+* https://github.com/zealvora/terraform-beginner-to-advanced-resource
 
 ## Books
 
