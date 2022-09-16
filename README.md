@@ -31,6 +31,7 @@ Learning content for the HashiCorp Certified Terraform Associate
 * https://www.terraform.io/language/functions
 * https://www.terraform.io/language/expressions
 * https://www.terraform.io/language/state
+* https://learn.hashicorp.com/tutorials/terraform/cloud-login?in=terraform/cloud
 
 ## Courses
 
