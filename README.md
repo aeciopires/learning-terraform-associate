@@ -65,7 +65,6 @@ Learning content for the HashiCorp Certified Terraform Associate
 * https://s3cloudhub.medium.com/how-to-pass-the-hashicorp-certified-terraform-associate-exam-in-2022-de77690cf805
 * https://medium.com/@promisepreston/terraform-how-to-ace-your-terraform-associate-certification-exam-77cc2f3dd5bd
 * https://pilotudesh.medium.com/how-i-got-certified-on-hashicorp-terraform-associate-87552ce90e0c
-* https://medium.com/@ricardo6142/terraform-certified-associate-8d034e8bbc59* 
 
 ## Exercises and simulators
 
